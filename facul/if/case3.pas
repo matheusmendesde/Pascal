@@ -23,7 +23,7 @@ begin
             write('Tem 28 dias(29 nos anos bissextos)');
         else
         begin
-            write('Mes invalido')
+            write('Mes invalido');
         end;
     end;
 
